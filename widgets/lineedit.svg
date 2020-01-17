@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="42" height="36" version="1.1">
  <g id="base-top" transform="matrix(0.83333333,0,0,1,-9.83333,-53)">
-  <path id="rect993" style="opacity:1;fill:#bfc0c1;fill-opacity:1;stroke:none;stroke-width:2.46234775;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(1,53)" d="M 12,0.5 35.999996,1 60,0.5 35.999996,0 Z"/>
+  <path id="rect993" style="opacity:0.2" transform="translate(1,53)" d="M 12,0.5 35.999996,1 60,0.5 35.999996,0 Z"/>
   <path id="rect956" style="opacity:0.001" d="M 13,54 H 61 V 65 H 13 Z"/>
  </g>
  <g id="base-left" transform="matrix(0.09090909,0,0,1.0000001,-0.18181,-53)">
@@ -11,7 +11,7 @@
   <path id="rect970" style="opacity:0.001" d="M 61,64.999995 72,65 v 11.999999 l -11,-5e-6 z"/>
  </g>
  <g id="base-bottom" transform="matrix(0.83333332,0,0,1,-9.83333,-52.99999)">
-  <path id="rect999" style="opacity:1;fill:#bfc0c1" transform="translate(1,53)" d="M 12,35.49999 36.000009,36 60,35.49999 36.000009,35 Z"/>
+  <path id="rect999" style="opacity:0.2" transform="translate(1,53)" d="M 12,35.49999 36.000009,36 60,35.49999 36.000009,35 Z"/>
   <path id="rect974" style="opacity:0.001" d="m 12.999999,88 h 48 V 76.999999 h -48 z"/>
  </g>
  <rect id="base-hint-top-margin" style="opacity:1;fill:#ff0000" width="2" height="1" x="20" y="0"/>
