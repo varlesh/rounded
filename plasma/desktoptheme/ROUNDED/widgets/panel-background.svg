@@ -13,7 +13,7 @@
   <linearGradient id="linearGradient1022" x1="148" x2="148" y1="143" y2="128.5" gradientTransform="matrix(1.9999998,0,0,-1.9999998,-73.999963,416.99997)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient985"/>
   <radialGradient id="radialGradient1024" cx="129.71" cy="143.29" r="11" fx="129.71" fy="143.29" gradientTransform="matrix(-1.01646e-7,2.6363629,-2.6363621,-1.0164597e-7,643.76518,-210.96179)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient985"/>
  </defs>
- <rect id="hint-tile-center" style="fill:#ff0000;stroke-width:1" width="5" height="5" x="0" y="0"/>
+ <rect id="hint-tile-center" style="opacity:1;fill:#ff0000" width="5" height="5" x="0" y="0"/>
  <path id="topright" style="opacity:0.8;fill:#eff0f1" d="m 104,5.000917 v 23.999998 h 24 c 0,-13.296 -10.704,-23.999998 -24,-23.999998 z"/>
  <rect id="top" style="opacity:0.8;fill:#eff0f1" width="80" height="24" x="24" y="5"/>
  <rect id="center" style="opacity:0.8;fill:#eff0f1" width="80" height="80" x="24" y="29"/>

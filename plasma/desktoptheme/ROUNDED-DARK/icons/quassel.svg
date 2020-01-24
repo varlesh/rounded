@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg64" width="22" height="22" version="1.1">
+ <g id="quassel">
+  <rect id="rect890" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path id="path880" style="opacity:1;fill:#eff0f1" d="M 11 3 A 8 8 0 0 0 3 11 A 8 8 0 0 0 11 19 A 8 8 0 0 0 19 11 A 8 8 0 0 0 11 3 z M 11 4 A 7 7 0 0 1 18 11 A 7 7 0 0 1 16.898438 14.753906 A 3 3 0 0 0 17 14 A 3 3 0 0 0 14 11 A 3 3 0 0 0 11 14 A 3 3 0 0 0 14 17 A 3 3 0 0 0 14.767578 16.898438 A 7 7 0 0 1 11 18 A 7 7 0 0 1 4 11 A 7 7 0 0 1 11 4 z"/>
+ </g>
+ <g id="quassel-message" transform="translate(22)">
+  <rect id="rect896" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path id="path898" style="opacity:1;fill:#3daee9" d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -1.101562,3.753906 A 3,3 0 0 0 17,14 3,3 0 0 0 14,11 3,3 0 0 0 11,14 3,3 0 0 0 14,17 3,3 0 0 0 14.767578,16.898438 7,7 0 0 1 11,18 7,7 0 0 1 4,11 7,7 0 0 1 11,4 Z"/>
+ </g>
+ <g id="quassel-inactive" transform="translate(44)">
+  <rect id="rect902" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path id="path904" style="opacity:0.5;fill:#eff0f1" d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -1.101562,3.753906 A 3,3 0 0 0 17,14 3,3 0 0 0 14,11 3,3 0 0 0 11,14 3,3 0 0 0 14,17 3,3 0 0 0 14.767578,16.898438 7,7 0 0 1 11,18 7,7 0 0 1 4,11 7,7 0 0 1 11,4 Z"/>
+ </g>
+</svg>

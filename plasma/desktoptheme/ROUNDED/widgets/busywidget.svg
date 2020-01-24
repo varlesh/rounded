@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="44" height="40" version="1.1" viewBox="0 0 11.64 10.58">
- <rect id="hint-rotation-angle" style="fill:#ff0000;fill-opacity:1" width="3.704" height="3.704" x="0" y="0"/>
+ <rect id="hint-rotation-angle" style="opacity:1;fill:#ff0000" width="3.704" height="3.704" x="0" y="0"/>
  <g id="stopped" transform="translate(-3.9683821,0.5291173)">
   <rect id="rect4143" style="opacity:0.001" width="5.82" height="5.82" x="9.79" y="4.23"/>
   <path id="path826" style="opacity:1;fill:#232627" transform="matrix(0.26455882,0,0,0.26455882,0,-0.00117647)" d="M 48,17 A 9.9999987,10.000001 0 0 0 38,27 9.9999987,10.000001 0 0 0 48,37 9.9999987,10.000001 0 0 0 58,27 9.9999987,10.000001 0 0 0 48,17 Z m 0,2 a 7.9999978,7.9999997 0 0 1 8,8 7.9999978,7.9999997 0 0 1 -8,8 7.9999978,7.9999997 0 0 1 -8,-8 7.9999978,7.9999997 0 0 1 8,-8 z"/>

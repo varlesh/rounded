@@ -10,6 +10,20 @@
   <radialGradient id="radialGradient948" cx="16" cy="39" r="8.75" fx="16" fy="39" gradientTransform="translate(0,2.4514281e-6)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
   <radialGradient id="radialGradient950" cx="16" cy="39.833" r="9.167" fx="16" fy="39.833" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
   <radialGradient id="radialGradient952" cx="16" cy="39.833" r="9.167" fx="16" fy="39.833" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
+  <linearGradient id="linearGradient1016" x1="26" x2="82" y1="39.016" y2="39.016" gradientTransform="translate(30.242922,-25.477353)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient991">
+   <stop id="stop987" style="stop-color:#a22f66;stop-opacity:1" offset="0"/>
+   <stop id="stop989" style="stop-color:#1b77a0;stop-opacity:1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient896" x1="44" x2="50" y1="16" y2="16" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient898" x1="44" x2="50" y1="16" y2="16" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient900" x1="44" x2="50" y1="16" y2="16" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient902" x1="44" x2="50" y1="14" y2="14" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient904" x1="44" x2="50" y1="14" y2="14" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient906" x1="44" x2="50" y1="14" y2="14" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient908" x1="44" x2="50" y1="12" y2="12" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient910" x1="44" x2="50" y1="12" y2="12" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
+  <linearGradient id="linearGradient912" x1="44" x2="50" y1="12" y2="12" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
  </defs>
  <path id="groove-top" style="opacity:0.2" d="m 36,11 v 2 h 2 v -2 z"/>
  <path id="groove-topleft" style="opacity:0.2" d="m 36,11 c -1.12144,0 -2,0.87856 -2,2 h 2 z"/>
@@ -21,20 +35,20 @@
  <path id="groove-center" style="opacity:0.2" d="m 36,13 v 2 h 2 v -2 z"/>
  <path id="groove-left" style="opacity:0.2" d="m 34,13 v 2 h 2 v -2 z"/>
  <path id="groove-right" style="opacity:0.2" d="m 38,13 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-top" style="opacity:1;fill:#3daee9" d="M 46,11.000001 V 13 h 2 v -1.999999 z"/>
- <path id="groove-highlight-topleft" style="opacity:1;fill:#3daee9" d="m 46,11.000001 c -1.12144,0 -2,0.87856 -2,1.999999 h 2 z"/>
- <path id="groove-highlight-topright" style="opacity:1;fill:#3daee9" d="m 50,13 c 0,-1.121439 -0.87856,-1.999999 -2,-1.999999 V 13 Z"/>
- <path id="groove-highlight-bottom" style="opacity:1;fill:#3daee9" d="m 46,17 v -2 h 2 v 2 z"/>
- <path id="groove-highlight-bottomleft" style="opacity:1;fill:#3daee9" d="m 46,17 c -1.12144,0 -2,-0.87856 -2,-2 h 2 z"/>
- <path id="groove-highlight-bottomright" style="opacity:1;fill:#3daee9" d="m 50,15 c 0,1.12144 -0.87856,2 -2,2 v -2 z"/>
- <path id="groove-highlight-center" style="opacity:1;fill:#3daee9" d="m 46,13 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-left" style="opacity:1;fill:#3daee9" d="m 44,13 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-right" style="opacity:1;fill:#3daee9" d="m 48,13 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-top" style="opacity:0.8;fill:url(#linearGradient910)" d="M 46,11.000001 V 13 h 2 v -1.999999 z"/>
+ <path id="groove-highlight-topleft" style="opacity:0.8;fill:url(#linearGradient912)" d="m 46,11.000001 c -1.12144,0 -2,0.87856 -2,1.999999 h 2 z"/>
+ <path id="groove-highlight-topright" style="opacity:0.8;fill:url(#linearGradient908)" d="m 50,13 c 0,-1.121439 -0.87856,-1.999999 -2,-1.999999 V 13 Z"/>
+ <path id="groove-highlight-bottom" style="opacity:0.8;fill:url(#linearGradient898)" d="m 46,17 v -2 h 2 v 2 z"/>
+ <path id="groove-highlight-bottomleft" style="opacity:0.8;fill:url(#linearGradient900)" d="m 46,17 c -1.12144,0 -2,-0.87856 -2,-2 h 2 z"/>
+ <path id="groove-highlight-bottomright" style="opacity:0.8;fill:url(#linearGradient896)" d="m 50,15 c 0,1.12144 -0.87856,2 -2,2 v -2 z"/>
+ <path id="groove-highlight-center" style="opacity:0.8;fill:url(#linearGradient904)" d="m 46,13 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-left" style="opacity:0.8;fill:url(#linearGradient902)" d="m 44,13 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-right" style="opacity:0.8;fill:url(#linearGradient906)" d="m 48,13 v 2 h 2 v -2 z"/>
  <g id="horizontal-slider-handle" transform="matrix(1.2,0,0,1.2,-7.1999999,30.2)">
   <rect id="rect3785-4" style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
   <path id="path3921-2" style="opacity:1;fill:url(#radialGradient893)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
   <path id="path873" style="opacity:1;fill:url(#radialGradient893)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
-  <path id="path3923-4" style="opacity:1;fill:#ffffff;fill-opacity:1" transform="matrix(1.875,0,0,1.875,-10.25,-36)" d="m 18,40 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"/>
+  <path id="path3923-4" style="opacity:1;fill:#ffffff" transform="matrix(1.875,0,0,1.875,-10.25,-36)" d="m 18,40 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"/>
  </g>
  <g id="horizontal-slider-shadow" style="opacity:0.01000001" transform="translate(-4.9999999,-33)">
   <rect id="rect3114" style="opacity:0.001" width="24" height="24" x="96" y="98"/>
@@ -48,7 +62,7 @@
   <path id="path875" style="opacity:1;fill:url(#radialGradient877)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
   <circle id="path4208" style="opacity:1;fill:#ffffff" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
  </g>
- <circle id="hint-handle-size" style="fill:#ff0000;fill-opacity:1;stroke-width:1.4666667" cx="13" cy="11" r="11"/>
+ <circle id="hint-handle-size" style="opacity:1;fill:#ff0000" cx="13" cy="11" r="11"/>
  <g id="horizontal-slider-focus" transform="matrix(1.2,0,0,1.2,52.8,30.2)">
   <rect id="rect914" style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
   <path id="path916" style="opacity:1;fill:url(#radialGradient922)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
@@ -57,9 +71,9 @@
  </g>
  <g id="vertical-slider-handle" transform="matrix(1.2,0,0,1.2,-7.1999999,2.2)">
   <rect id="rect924" style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
-  <path id="path926" style="opacity:1;fill:url(#radialGradient948);fill-opacity:1;stroke-width:2.1875" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
-  <path id="path869" style="opacity:1;fill:url(#radialGradient948);fill-opacity:1;stroke-width:2.1875" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
-  <path id="path928" style="opacity:1;fill:#ffffff;fill-opacity:1" transform="matrix(1.875,0,0,1.875,-10.25,-36)" d="m 18,40 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"/>
+  <path id="path926" style="opacity:1;fill:url(#radialGradient948)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
+  <path id="path869" style="opacity:1;fill:url(#radialGradient948)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
+  <path id="path928" style="opacity:1;fill:#ffffff" transform="matrix(1.875,0,0,1.875,-10.25,-36)" d="m 18,40 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"/>
  </g>
  <g id="vertical-slider-hover" transform="matrix(1.2,0,0,1.2,22.8,2.2)">
   <rect id="rect932" style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
@@ -73,4 +87,5 @@
   <path id="path881" style="opacity:1;fill:url(#radialGradient952)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
   <circle id="circle944" style="opacity:1;fill:#ffffff" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
  </g>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff0000" width="2" height="2" x="28" y="9"/>
 </svg>
