@@ -57,7 +57,7 @@
   <path id="path3901" style="opacity:1;fill:url(#linearGradient988)" d="M 9,22.333334 V 17 h 5.333333 c 0,2.216 -3.117333,5.333334 -5.333333,5.333334 z"/>
  </g>
  <g id="slider-top" style="opacity:0.8" transform="matrix(0,-0.18749998,-0.1,0,11.7,4.6875)">
-  <rect id="rect3850" style="opacity:0.01" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
+  <rect id="rect3850" style="opacity:0.001" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
   <path id="path3909" style="opacity:1;fill:url(#linearGradient998)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
  </g>
  <g id="slider-bottom" style="opacity:0.8" transform="matrix(0,0.18749995,-0.1,0,11.7,2.312501)">
