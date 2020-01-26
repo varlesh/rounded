@@ -1,11 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg11" style="enable-background:new" width="22" height="22" version="1.1">
- <defs id="defs4">
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" style="stop-color:#000000" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <g id="kaffeine">
-  <rect id="rect838" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.67050028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" width="22" height="22" x="0" y="0"/>
-  <path id="path825" style="opacity:1;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:1.71636367;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" d="M 11 3 A 8 8 0 0 0 3 11 A 8 8 0 0 0 11 19 A 8 8 0 0 0 19 11 A 8 8 0 0 0 11 3 z M 11 4 A 7 7 0 0 1 18 11 A 7 7 0 0 1 11 18 A 7 7 0 0 1 4 11 A 7 7 0 0 1 11 4 z M 10.091797 8 A 1.0673336 1.1762744 0 0 0 9 9.1757812 L 9 11 L 9 12.824219 A 1.0673336 1.1762744 0 0 0 10.601562 13.841797 L 12.033203 12.929688 L 13.466797 12.017578 A 1.0673336 1.1762744 0 0 0 13.466797 9.9804688 L 12.033203 9.0703125 L 10.601562 8.1582031 A 1.0673336 1.1762744 0 0 0 10.091797 8 z"/>
+  <rect id="rect838" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path id="path825" style="opacity:1;fill:#eff0f1" d="M 11 3 A 8 8 0 0 0 3 11 A 8 8 0 0 0 11 19 A 8 8 0 0 0 19 11 A 8 8 0 0 0 11 3 z M 11 4 A 7 7 0 0 1 18 11 A 7 7 0 0 1 11 18 A 7 7 0 0 1 4 11 A 7 7 0 0 1 11 4 z M 10.091797 8 A 1.0673336 1.1762744 0 0 0 9 9.1757812 L 9 11 L 9 12.824219 A 1.0673336 1.1762744 0 0 0 10.601562 13.841797 L 12.033203 12.929688 L 13.466797 12.017578 A 1.0673336 1.1762744 0 0 0 13.466797 9.9804688 L 12.033203 9.0703125 L 10.601562 8.1582031 A 1.0673336 1.1762744 0 0 0 10.091797 8 z"/>
  </g>
 </svg>
