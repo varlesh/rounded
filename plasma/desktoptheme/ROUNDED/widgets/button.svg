@@ -50,69 +50,69 @@
  </defs>
  <g id="toolbutton-hover-top" transform="translate(-2,-28.000002)">
   <path id="rect1034" style="opacity:0.001" d="M 35,44.000002 H 46 V 55 H 35 Z"/>
-  <path id="toolbutton-hover-top2" style="opacity:0.4;fill:#ffffff" d="M 34.999994,45.00001 H 45.999988 V 55.000012 H 34.999994 Z"/>
+  <path id="toolbutton-hover-top2" style="opacity:0.1" d="M 34.999994,45.00001 H 45.999988 V 55.000012 H 34.999994 Z"/>
  </g>
  <g id="toolbutton-hover-left" transform="translate(-2,-28.000002)">
   <path id="rect1019" style="opacity:0.001" d="M 24,55 H 35 V 66 H 24 Z"/>
-  <path id="toolbutton-hover-left2" style="opacity:0.4;fill:#ffffff" d="m 24.999544,55.000012 h 10.00045 v 10.999994 h -10.00045 z"/>
+  <path id="toolbutton-hover-left2" style="opacity:0.1" d="m 24.999544,55.000012 h 10.00045 v 10.999994 h -10.00045 z"/>
  </g>
- <rect id="toolbutton-hover-center" style="opacity:0.4;fill:#ffffff" width="11" height="11" x="33" y="27"/>
+ <rect id="toolbutton-hover-center" style="opacity:0.1" width="11" height="11" x="33" y="27"/>
  <g id="toolbutton-hover-right" transform="translate(-2,-28.000002)">
   <path id="rect1029" style="opacity:0.001" d="M 46,55 H 57 V 66 H 46 Z"/>
-  <path id="toolbutton-hover-right2" style="opacity:0.4;fill:#ffffff" d="m 45.999988,55.000016 10.000449,5e-6 v 10.999988 l -10.000449,-3e-6 z"/>
+  <path id="toolbutton-hover-right2" style="opacity:0.1" d="m 45.999988,55.000016 10.000449,5e-6 v 10.999988 l -10.000449,-3e-6 z"/>
  </g>
  <g id="toolbutton-hover-bottom" transform="translate(-2,-28.000002)">
   <path id="rect1025" style="opacity:0.001" d="M 35,66 H 46 V 77.000002 H 35 Z"/>
-  <path id="toolbutton-hover-bottom2" style="opacity:0.4;fill:#ffffff" d="M 34.999994,76 H 45.999988 V 66.000006 H 34.999994 Z"/>
+  <path id="toolbutton-hover-bottom2" style="opacity:0.1" d="M 34.999994,76 H 45.999988 V 66.000006 H 34.999994 Z"/>
  </g>
  <g id="toolbutton-hover-topleft" transform="translate(-2,-28.000002)">
   <path id="rect1017" style="opacity:0.001" d="M 24,44.000002 H 35 V 55 H 24 Z"/>
-  <path id="toolbutton-hover-topleft2" style="opacity:0.4;fill:#ffffff" transform="translate(1,43.000002)" d="M 34,2 C 29.01895,2 24.899186,5.645883 24.136719,10.412109 24.061671,10.953358 24.010115,11.488222 24,12 h 10 z"/>
+  <path id="toolbutton-hover-topleft2" style="opacity:0.1" transform="translate(1,43.000002)" d="M 34,2 C 29.01895,2 24.899186,5.645883 24.136719,10.412109 24.061671,10.953358 24.010115,11.488222 24,12 h 10 z"/>
  </g>
  <g id="toolbutton-hover-topright" transform="translate(-2,-28.000002)">
   <path id="rect1032" style="opacity:0.001" d="M 46,44.000002 H 57 V 55 H 46 Z"/>
-  <path id="toolbutton-hover-topright2" style="opacity:0.4;fill:#ffffff" transform="translate(1,43.000002)" d="M 45,2 V 12 H 55 C 54.989885,11.488222 54.938278,10.953358 54.863281,10.412109 54.100814,5.645883 49.98105,2 45,2 Z"/>
+  <path id="toolbutton-hover-topright2" style="opacity:0.1" transform="translate(1,43.000002)" d="M 45,2 V 12 H 55 C 54.989885,11.488222 54.938278,10.953358 54.863281,10.412109 54.100814,5.645883 49.98105,2 45,2 Z"/>
  </g>
  <g id="toolbutton-hover-bottomleft" transform="translate(-2,-28.000002)">
   <path id="rect1021" style="opacity:0.001" d="M 24,66 H 35 V 77.000002 H 24 Z"/>
-  <path id="toolbutton-hover-bottomleft2" style="opacity:0.4;fill:#ffffff" transform="translate(1,43.000002)" d="m 24,23 c 0.01011,0.511779 0.06167,1.046645 0.136719,1.587891 C 24.899186,29.354117 29.01895,33 34,33 V 23 Z"/>
+  <path id="toolbutton-hover-bottomleft2" style="opacity:0.1" transform="translate(1,43.000002)" d="m 24,23 c 0.01011,0.511779 0.06167,1.046645 0.136719,1.587891 C 24.899186,29.354117 29.01895,33 34,33 V 23 Z"/>
  </g>
  <g id="toolbutton-hover-bottomright" transform="translate(-2,-28.000002)">
   <path id="rect1027" style="opacity:0.001" d="M 46,66 H 57 V 77.000002 H 46 Z"/>
-  <path id="toolbutton-hover-bottomright2" style="opacity:0.4;fill:#ffffff" transform="translate(1,43.000002)" d="m 45,23 v 10 c 4.98105,0 9.100814,-3.645883 9.863281,-8.412109 C 54.938278,24.046645 54.989885,23.511779 55,23 Z"/>
+  <path id="toolbutton-hover-bottomright2" style="opacity:0.1" transform="translate(1,43.000002)" d="m 45,23 v 10 c 4.98105,0 9.100814,-3.645883 9.863281,-8.412109 C 54.938278,24.046645 54.989885,23.511779 55,23 Z"/>
  </g>
  <g id="toolbutton-pressed-top" transform="translate(-2,5)">
   <path id="rect1034-3" style="opacity:0.001" d="M 35,44 H 46 V 55 H 35 Z"/>
-  <path id="toolbutton-pressed-top2" style="opacity:0.7;fill:#ffffff" d="M 34.999994,45.000008 H 45.999988 V 55.000012 H 34.999994 Z"/>
+  <path id="toolbutton-pressed-top2" style="opacity:0.2" d="M 34.999994,45.000008 H 45.999988 V 55.000012 H 34.999994 Z"/>
  </g>
  <g id="toolbutton-pressed-left" transform="translate(-2,5)">
   <path id="rect1019-6" style="opacity:0.001" d="M 24,55 H 35 V 66 H 24 Z"/>
-  <path id="toolbutton-pressed-left2" style="opacity:0.7;fill:#ffffff" d="m 24.999544,55.000012 h 10.00045 v 10.999994 h -10.00045 z"/>
+  <path id="toolbutton-pressed-left2" style="opacity:0.2" d="m 24.999544,55.000012 h 10.00045 v 10.999994 h -10.00045 z"/>
  </g>
- <rect id="toolbutton-pressed-center" style="opacity:0.7;fill:#ffffff" width="11" height="11" x="33" y="60"/>
+ <rect id="toolbutton-pressed-center" style="opacity:0.2" width="11" height="11" x="33" y="60"/>
  <g id="toolbutton-pressed-right" transform="translate(-2,5)">
   <path id="rect1029-7" style="opacity:0.001" d="M 46,55 H 57 V 66 H 46 Z"/>
-  <path id="toolbutton-pressed-right2" style="opacity:0.7;fill:#ffffff" d="m 45.999988,55.000016 10.000449,5e-6 v 10.999988 l -10.000449,-3e-6 z"/>
+  <path id="toolbutton-pressed-right2" style="opacity:0.2" d="m 45.999988,55.000016 10.000449,5e-6 v 10.999988 l -10.000449,-3e-6 z"/>
  </g>
  <g id="toolbutton-pressed-bottom" transform="translate(-2,5)">
   <path id="rect1025-5" style="opacity:0.001" d="M 35,66 H 46 V 77 H 35 Z"/>
-  <path id="toolbutton-pressed-bottom2" style="opacity:0.7;fill:#ffffff" d="M 34.999994,75.999999 H 45.999988 V 66.000006 H 34.999994 Z"/>
+  <path id="toolbutton-pressed-bottom2" style="opacity:0.2" d="M 34.999994,75.999999 H 45.999988 V 66.000006 H 34.999994 Z"/>
  </g>
  <g id="toolbutton-pressed-topleft" transform="translate(-2,5)">
   <path id="rect1017-3" style="opacity:0.001" d="M 24,44 H 35 V 55 H 24 Z"/>
-  <path id="toolbutton-pressed-topleft2" style="opacity:0.7;fill:#ffffff" transform="translate(1,1)" d="m 34,44 c -4.98105,0 -9.100814,3.645883 -9.863281,8.412109 C 24.061671,52.953358 24.010115,53.488222 24,54 h 10 z"/>
+  <path id="toolbutton-pressed-topleft2" style="opacity:0.2" transform="translate(1,1)" d="m 34,44 c -4.98105,0 -9.100814,3.645883 -9.863281,8.412109 C 24.061671,52.953358 24.010115,53.488222 24,54 h 10 z"/>
  </g>
  <g id="toolbutton-pressed-topright" transform="translate(-2,5)">
   <path id="rect1032-5" style="opacity:0.001" d="M 46,44 H 57 V 55 H 46 Z"/>
-  <path id="toolbutton-pressed-topright2" style="opacity:0.7;fill:#ffffff" transform="translate(1,1)" d="M 45,44 V 54 H 55 C 54.989885,53.488222 54.938278,52.953358 54.863281,52.412109 54.100814,47.645883 49.98105,44 45,44 Z"/>
+  <path id="toolbutton-pressed-topright2" style="opacity:0.2" transform="translate(1,1)" d="M 45,44 V 54 H 55 C 54.989885,53.488222 54.938278,52.953358 54.863281,52.412109 54.100814,47.645883 49.98105,44 45,44 Z"/>
  </g>
  <g id="toolbutton-pressed-bottomleft" transform="translate(-2,5)">
   <path id="rect1021-6" style="opacity:0.001" d="M 24,66 H 35 V 77 H 24 Z"/>
-  <path id="toolbutton-pressed-bottomleft2" style="opacity:0.7;fill:#ffffff" transform="translate(1,1)" d="m 24,65 c 0.01011,0.511779 0.06167,1.046645 0.136719,1.587891 C 24.899186,71.354117 29.01895,75 34,75 V 65 Z"/>
+  <path id="toolbutton-pressed-bottomleft2" style="opacity:0.2" transform="translate(1,1)" d="m 24,65 c 0.01011,0.511779 0.06167,1.046645 0.136719,1.587891 C 24.899186,71.354117 29.01895,75 34,75 V 65 Z"/>
  </g>
  <g id="toolbutton-pressed-bottomright" transform="translate(-2,5)">
   <path id="rect1027-2" style="opacity:0.001" d="M 46,66 H 57 V 77 H 46 Z"/>
-  <path id="toolbutton-pressed-bottomright2" style="opacity:0.7;fill:#ffffff" transform="translate(1,1)" d="m 45,65 v 10 c 4.98105,0 9.100814,-3.645883 9.863281,-8.412109 C 54.938278,66.046645 54.989885,65.511779 55,65 Z"/>
+  <path id="toolbutton-pressed-bottomright2" style="opacity:0.2" transform="translate(1,1)" d="m 45,65 v 10 c 4.98105,0 9.100814,-3.645883 9.863281,-8.412109 C 54.938278,66.046645 54.989885,65.511779 55,65 Z"/>
  </g>
  <g id="normal-top" transform="translate(2,3)">
   <rect id="rect934" style="opacity:1;fill:url(#linearGradient1033)" width="6" height="7" x="6" y="-1"/>
