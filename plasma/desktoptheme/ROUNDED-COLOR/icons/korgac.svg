@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4153" width="22" height="22" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="korgac">
+  <path id="path830" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 11 3 C 6.5680018 3 3 6.5680018 3 11 C 3 15.431998 6.5680018 19 11 19 C 15.431998 19 19 15.431998 19 11 C 19 6.5680018 15.431998 3 11 3 z M 11 4 C 14.877999 4 18 7.1220013 18 11 C 18 14.877999 14.877999 18 11 18 C 7.1220013 18 4 14.877999 4 11 C 4 7.1220013 7.1220013 4 11 4 z M 10.984375 4.9863281 A 1.0001 1.0001 0 0 0 10 6 L 10 11 A 1.0001 1.0001 0 0 0 11 12 L 15 12 A 1.0001 1.0001 0 1 0 15 10 L 12 10 L 12 6 A 1.0001 1.0001 0 0 0 10.984375 4.9863281 z"/>
+  <rect id="rect4162" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3869" width="22" height="22" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="layer1" transform="translate(-321,-539.36218)">
+  <g id="device-notifier" transform="translate(-4.9999924,5.000005)">
+   <rect id="rect884" style="opacity:0.001" width="22" height="22" x="326" y="534.36"/>
+   <path id="path886" style="opacity:1;fill:currentColor" class="ColorScheme-Text" transform="translate(325.99999,534.36217)" d="M 8 3 L 8 6 L 8 7 L 6 7 L 6 10 L 6 13 L 6 16 C 6 17.662 7.338 19 9 19 L 13 19 C 14.662 19 16 17.662 16 16 L 16 13 L 16 10 L 16 7 L 14 7 L 14 6 L 14 3 L 8 3 z M 9 4 L 10 4 L 10 6 L 9 6 L 9 4 z M 12 4 L 13 4 L 13 6 L 12 6 L 12 4 z M 7 8 L 9 8 L 13 8 L 15 8 L 15 10 L 15 13 L 15 16 C 15 17.1253 14.1253 18 13 18 L 9 18 C 7.8747 18 7 17.1253 7 16 L 7 13 L 7 10 L 7 8 z M 8.4492188 13 A 0.50064426 0.50064426 0 0 0 8.5 14 L 13.5 14 A 0.50005 0.50005 0 1 0 13.5 13 L 8.5 13 A 0.50005 0.50005 0 0 0 8.4492188 13 z M 9.4492188 15 A 0.50064426 0.50064426 0 0 0 9.5 16 L 12.5 16 A 0.50005 0.50005 0 1 0 12.5 15 L 9.5 15 A 0.50005 0.50005 0 0 0 9.4492188 15 z"/>
+  </g>
+ </g>
+</svg>

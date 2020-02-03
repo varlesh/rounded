@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="22" height="22" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="edit-delete">
+  <g id="g902">
+   <path id="path830" style="opacity:0.001" d="M 0,0 V 22 H 22 V 0 Z"/>
+   <path id="rect839" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 10,3 C 9.446,3 9,3.446 9,4 V 5 H 6 C 5.446,5 5,5.446 5,6 v 1 c 0,0.554 0.446,1 1,1 v 3 6 c 0,1.108 0.892,2 2,2 h 7 c 1.108,0 2,-0.892 2,-2 V 11 9 8 c 0.554,0 1,-0.446 1,-1 V 6 C 18,5.446 17.554,5 17,5 H 14 V 4 C 14,3.446 13.554,3 13,3 Z m 0,1 h 3 V 5 H 10 Z M 7,8 h 1 7 1 v 1 2 6 c 0,0.571297 -0.428703,1 -1,1 H 8 C 7.4287028,18 7,17.571297 7,17 V 9 Z M 9.4921875,9.9921875 C 9.2160427,9.9964962 8.9956794,10.223855 9,10.5 v 5 c -0.00956,0.676161 1.009563,0.676161 1,0 v -5 C 10.004417,10.217734 9.7744537,9.9877707 9.4921875,9.9921875 Z m 2.0000005,0 C 11.216043,9.9964959 10.995679,10.223855 11,10.5 v 5 c -0.0096,0.676161 1.009563,0.676161 1,0 v -5 C 12.0044,10.217734 11.774453,9.987771 11.492188,9.9921875 Z m 2,0 C 13.216043,9.9964959 12.995679,10.223855 13,10.5 v 5 c -0.0096,0.676161 1.009563,0.676161 1,0 v -5 C 14.0044,10.217734 13.774453,9.987771 13.492188,9.9921875 Z"/>
+  </g>
+ </g>
+</svg>

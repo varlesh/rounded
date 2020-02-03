@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg22" width="22" height="22" version="1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="utilities-terminal">
+  <rect id="rect2" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path id="path865" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 5 4 C 3.892 4 3 4.892 3 6 L 3 16 C 3 17.108 3.892 18 5 18 L 17 18 C 18.108 18 19 17.108 19 16 L 19 6 C 19 4.892 18.108 4 17 4 L 5 4 z M 5 5 L 17 5 C 17.571297 5 18 5.4287028 18 6 L 18 16 C 18 16.571297 17.571297 17 17 17 L 5 17 C 4.4287028 17 4 16.571297 4 16 L 4 6 C 4 5.4287028 4.4287028 5 5 5 z M 6 6 L 6 7 L 5 7 L 5 8 L 6 8 L 6 9 L 5 9 L 5 10 L 6 10 L 6 11 L 7 11 L 7 10 L 8 10 L 8 11 L 9 11 L 9 10 L 10 10 L 10 9 L 9 9 L 9 8 L 10 8 L 10 7 L 9 7 L 9 6 L 8 6 L 8 7 L 7 7 L 7 6 L 6 6 z M 7 8 L 8 8 L 8 9 L 7 9 L 7 8 z M 11 10 L 11 11 L 15 11 L 15 10 L 11 10 z"/>
+ </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg7" width="22" height="22" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="TeamViewer">
+  <rect id="rect2" style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path id="path4492" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 11,2.9999999 C 6.582082,2.9999998 3,6.5820814 3,11 c 0,4.417918 3.582082,8 8,8 4.417918,0 8,-3.582082 8,-8 0,-4.4179186 -3.582082,-8.0000002 -8,-8.0000001 z m 0,1 c 3.865678,-1e-7 7,3.1343213 7,7.0000001 0,3.865678 -3.134322,7 -7,7 C 7.134322,18 4,14.865678 4,11 4,7.1343212 7.134322,3.9999998 11,3.9999999 Z m -2,4 L 6,11 9,14 v -2 h 4 v 2 l 3,-3 -3,-3.0000001 v 2 H 9 Z"/>
+ </g>
+</svg>
