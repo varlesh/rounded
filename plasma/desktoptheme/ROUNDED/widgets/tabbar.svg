@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="225" height="240" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="225" height="240" version="1.1">
  <defs id="defs79">
   <linearGradient id="linearGradient1016" x1="26" x2="82" y1="39.016" y2="39.016" gradientTransform="translate(364.98305,-121.3886)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
   <linearGradient id="linearGradient991">
-   <stop id="stop987" style="stop-color:#a22f66;stop-opacity:1" offset="0"/>
-   <stop id="stop989" style="stop-color:#1b77a0;stop-opacity:1" offset="1"/>
+   <stop  style="stop-color:#a22f66;stop-opacity:1" offset="0"/>
+   <stop  style="stop-color:#1b77a0;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient908" x1="407" x2="407" y1="269.36" y2="363.36" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
   <linearGradient id="linearGradient910" x1="32.998" x2="126.998" y1="363.362" y2="363.362" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
@@ -20,11 +20,11 @@
  </defs>
  <rect id="hint-tile-center" style="opacity:1;fill:#ff0000" width="40" height="40" x="0" y="-40"/>
  <g id="south-active-tab-top" style="opacity:0.8" transform="matrix(1,0,0,0.99998568,36.00001,-136.35495)">
-  <path id="rect3003" style="opacity:1;fill:url(#linearGradient922)" d="m 40,359.36218 h 80 v 3 H 40 Z"/>
+  <path  style="opacity:1;fill:url(#linearGradient922)" d="m 40,359.36218 h 80 v 3 H 40 Z"/>
  </g>
  <g id="south-active-tab-topleft" style="opacity:0.8" transform="matrix(1,0,0,0.99925135,36.00001,-136.08883)">
   <rect id="rect3073-5" style="opacity:0.001" width="10" height="3" x="30" y="359.36"/>
-  <path id="rect3542" style="opacity:1;fill:url(#linearGradient920)" transform="matrix(1,0,0,1.0007492,-236.00001,-74.326798)" d="m 270.5,433.36133 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 h 5.5 v -2.9961 z"/>
+  <path  style="opacity:1;fill:url(#linearGradient920)" transform="matrix(1,0,0,1.0007492,-236.00001,-74.326798)" d="m 270.5,433.36133 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 h 5.5 v -2.9961 z"/>
  </g>
  <g id="south-active-tab-topright" style="opacity:0.8" transform="matrix(1,0,0,0.99925135,36.00001,-136.08883)">
   <rect id="rect3073-45" style="opacity:0.001" width="10" height="3" x="120" y="359.36"/>

@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="48" height="36" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="48" height="36" version="1">
  <defs id="defs5">
   <linearGradient id="linearGradient867">
-   <stop id="stop863" style="stop-color:#a22f66;stop-opacity:1" offset="0"/>
-   <stop id="stop869" style="stop-color:#1b77a0;stop-opacity:1" offset=".576"/>
-   <stop id="stop865" style="stop-color:#1b77a0;stop-opacity:0.01459854" offset="1"/>
+   <stop  style="stop-color:#a22f66;stop-opacity:1" offset="0"/>
+   <stop  style="stop-color:#1b77a0;stop-opacity:1" offset=".576"/>
+   <stop  style="stop-color:#1b77a0;stop-opacity:0.01459854" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient3777" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-51.837204,-14.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient867"/>
   <radialGradient id="radialGradient3785" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-87.8372,-14.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient867"/>

@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg3642" width="42" height="47" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="42" height="47" version="1">
  <defs id="defs100">
   <linearGradient id="linearGradient1016" x1="26" x2="82" y1="39.016" y2="39.016" gradientTransform="translate(-12.699666,-32.528131)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
   <linearGradient id="linearGradient991">
-   <stop id="stop987" style="stop-color:#a22f66;stop-opacity:1" offset="0"/>
-   <stop id="stop989" style="stop-color:#1b77a0;stop-opacity:1" offset="1"/>
+   <stop  style="stop-color:#a22f66;stop-opacity:1" offset="0"/>
+   <stop  style="stop-color:#1b77a0;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient948" x1="19.667" x2="19.667" y1="6.333" y2="22.333" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
   <linearGradient id="linearGradient950" x1="-1.667" x2="14.333" y1="-13" y2="-13" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient991"/>
@@ -35,34 +35,34 @@
  </defs>
  <rect id="slider-center" style="opacity:0.8;fill:url(#linearGradient992)" width="1" height="1" x="10" y="3"/>
  <g id="slider-right" style="opacity:0.8" transform="matrix(0.18750001,0,0,0.09999998,9.3124999,2.3)">
-  <path id="rect3838" style="opacity:1;fill:url(#linearGradient994)" d="m 9,7 v 10 h 5.333333 V 7 Z"/>
+  <path  style="opacity:1;fill:url(#linearGradient994)" d="m 9,7 v 10 h 5.333333 V 7 Z"/>
  </g>
  <g id="slider-topright" style="opacity:0.8" transform="matrix(0.18749997,0,0,0.18749997,9.3124999,1.6875)">
-  <rect id="rect3852" style="opacity:0.001" width="4" height="4" x="26" y="15" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)"/>
-  <path id="rect3840" style="opacity:1;fill:url(#linearGradient996)" d="M 9,1.6666665 V 7 h 5.333333 C 14.333333,4.784 11.216,1.6666665 9,1.6666665 Z"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="26" y="15" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)"/>
+  <path  style="opacity:1;fill:url(#linearGradient996)" d="M 9,1.6666665 V 7 h 5.333333 C 14.333333,4.784 11.216,1.6666665 9,1.6666665 Z"/>
  </g>
  <g id="slider-bottomright" style="opacity:0.8" transform="matrix(0.18749997,0,0,0.18749997,9.3124999,0.812501)">
-  <rect id="rect3862" style="opacity:0.001" width="4" height="4" x="26" y="31" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)"/>
-  <path id="path3871" style="opacity:1;fill:url(#linearGradient984)" d="M 9,22.333334 V 17 h 5.333333 c 0,2.216 -3.117333,5.333334 -5.333333,5.333334 z"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="26" y="31" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)"/>
+  <path  style="opacity:1;fill:url(#linearGradient984)" d="M 9,22.333334 V 17 h 5.333333 c 0,2.216 -3.117333,5.333334 -5.333333,5.333334 z"/>
  </g>
  <g id="slider-left" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.1,11.6875,2.3)">
-  <path id="path3891" style="opacity:1;fill:url(#linearGradient990)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
+  <path  style="opacity:1;fill:url(#linearGradient990)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
  </g>
  <g id="slider-topleft" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.18749997,11.6875,1.6875)">
-  <rect id="rect3848" style="opacity:0.001" width="4" height="4" x="19" y="15" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)"/>
-  <path id="path3895" style="opacity:1;fill:url(#linearGradient1000)" d="M 9,1.6666665 V 7 h 5.333333 C 14.333333,4.784 11.216,1.6666665 9,1.6666665 Z"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="19" y="15" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)"/>
+  <path  style="opacity:1;fill:url(#linearGradient1000)" d="M 9,1.6666665 V 7 h 5.333333 C 14.333333,4.784 11.216,1.6666665 9,1.6666665 Z"/>
  </g>
  <g id="slider-bottomleft" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.18749997,11.687499,0.8125)">
-  <rect id="rect3858" style="opacity:0.001" width="4" height="4" x="19" y="31" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)"/>
-  <path id="path3901" style="opacity:1;fill:url(#linearGradient988)" d="M 9,22.333334 V 17 h 5.333333 c 0,2.216 -3.117333,5.333334 -5.333333,5.333334 z"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="19" y="31" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)"/>
+  <path  style="opacity:1;fill:url(#linearGradient988)" d="M 9,22.333334 V 17 h 5.333333 c 0,2.216 -3.117333,5.333334 -5.333333,5.333334 z"/>
  </g>
  <g id="slider-top" style="opacity:0.8" transform="matrix(0,-0.18749998,-0.1,0,11.7,4.6875)">
-  <rect id="rect3850" style="opacity:0.001" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
-  <path id="path3909" style="opacity:1;fill:url(#linearGradient998)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
+  <rect  style="opacity:0.001" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
+  <path  style="opacity:1;fill:url(#linearGradient998)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
  </g>
  <g id="slider-bottom" style="opacity:0.8" transform="matrix(0,0.18749995,-0.1,0,11.7,2.312501)">
-  <rect id="rect3860" style="opacity:0.001" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
-  <path id="path3915" style="opacity:1;fill:url(#linearGradient986)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
+  <rect  style="opacity:0.001" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
+  <path  style="opacity:1;fill:url(#linearGradient986)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
  </g>
  <rect id="hint-scrollbar-size" style="opacity:1;fill:#ff0000" width="3" height="3" x="9" y="17" rx="0" ry="3"/>
  <rect id="mouseover-slider-center" style="opacity:0.8;fill:url(#linearGradient954)" width="1" height="1" x="10" y="13"/>
@@ -70,7 +70,7 @@
   <path id="rect3838-4" style="opacity:1;fill:url(#linearGradient964)" d="m 9,7 v 10 h 5.333333 V 7 Z"/>
  </g>
  <g id="mouseover-slider-topright" style="opacity:0.8" transform="matrix(0.18749994,0,0,0.18749994,9.312501,11.6875)">
-  <rect id="rect3894" style="opacity:0.001" width="4" height="4" x="26" y="37" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-47.666667)"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="26" y="37" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-47.666667)"/>
   <path id="rect3840-2" style="opacity:1;fill:url(#linearGradient962)" d="M 9,1.6666666 V 7 l 5.333333,-2e-7 C 14.333333,4.7839998 11.216,1.6666666 9,1.6666666 Z"/>
  </g>
  <g id="mouseover-slider-bottomright" style="opacity:0.8" transform="matrix(0.18749997,0,0,0.18749997,9.3125,10.8125)">
@@ -80,19 +80,19 @@
   <path id="path3891-9" style="opacity:1;fill:url(#linearGradient956)" d="m 9,7 v 10 h 5.333333 V 7 Z"/>
  </g>
  <g id="mouseover-slider-topleft" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.18749997,11.687499,11.687499)">
-  <rect id="rect3880" style="opacity:0.001" width="4" height="4" x="19" y="37" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-47.666667)"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="19" y="37" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-47.666667)"/>
   <path id="path3895-2" style="opacity:1;fill:url(#linearGradient958)" d="M 9,1.666667 V 7 h 5.333333 C 14.333333,4.784 11.216,1.666667 9,1.666667 Z"/>
  </g>
  <g id="mouseover-slider-bottomleft" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.18749997,11.6875,10.8125)">
-  <rect id="rect3890" style="opacity:0.001" width="4" height="4" x="19" y="53" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-53.666667)"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="19" y="53" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-53.666667)"/>
   <path id="path3901-9" style="opacity:1;fill:url(#linearGradient952)" d="M 9,22.333332 V 17 h 5.333332 c 0,2.216 -3.117332,5.333332 -5.333332,5.333332 z"/>
  </g>
  <g id="mouseover-slider-top" style="opacity:0.8" transform="matrix(0,-0.18749994,-0.1,0,11.7,14.687498)">
-  <rect id="rect3892" style="opacity:0.001" width="1" height="4" x="24" y="37" transform="matrix(0,-10,-1.3333333,0,63.666667,257)"/>
+  <rect  style="opacity:0.001" width="1" height="4" x="24" y="37" transform="matrix(0,-10,-1.3333333,0,63.666667,257)"/>
   <path id="path3909-6" style="opacity:1;fill:url(#linearGradient960)" d="m 9,7 v 10 h 5.333333 V 7 Z"/>
  </g>
  <g id="mouseover-slider-bottom" style="opacity:0.8" transform="matrix(0,0.18749997,-0.1,0,11.7,12.3125)">
-  <rect id="rect3906" style="opacity:0.001" width="1" height="4" x="24" y="53" transform="matrix(0,-10,1.3333333,0,-61.666667,257)"/>
+  <rect  style="opacity:0.001" width="1" height="4" x="24" y="53" transform="matrix(0,-10,1.3333333,0,-61.666667,257)"/>
   <path id="path3915-6" style="opacity:1;fill:url(#linearGradient950)" d="m 9,7 v 10 h 5.333332 V 7 Z"/>
  </g>
  <rect id="sunken-slider-center" style="opacity:0.8;fill:url(#linearGradient974)" width="1" height="1" x="10" y="8"/>
@@ -100,30 +100,30 @@
   <path id="rect3838-4-8" style="opacity:1;fill:url(#linearGradient976)" d="m 9,7 v 10 h 5.333333 V 7 Z"/>
  </g>
  <g id="sunken-slider-topright" style="opacity:0.8" transform="matrix(0.18749997,0,0,0.18749997,9.3125,6.687502)">
-  <rect id="rect3920" style="opacity:0.001" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
   <path id="rect3840-2-9" style="opacity:1;fill:url(#linearGradient978)" d="M 9,1.6666659 V 7 h 5.333333 C 14.333333,4.784 11.216,1.6666659 9,1.6666659 Z"/>
  </g>
  <g id="sunken-slider-bottomright" style="opacity:0.8" transform="matrix(0.18749997,0,0,0.18749997,9.3125,5.812502)">
-  <rect id="rect3930" style="opacity:0.001" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
   <path id="path3871-1-7" style="opacity:1;fill:url(#linearGradient966)" d="M 9,22.333334 V 17 h 5.333333 c 0,2.216 -3.117333,5.333334 -5.333333,5.333334 z"/>
  </g>
  <g id="sunken-slider-left" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.1,11.687499,7.300001)">
   <path id="path3891-9-4" style="opacity:1;fill:url(#linearGradient972)" d="m 9,7 v 10 h 5.333333 V 7 Z"/>
  </g>
  <g id="sunken-slider-topleft" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.18749997,11.6875,6.687501)">
-  <rect id="rect3916" style="opacity:0.001" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
   <path id="path3895-2-1" style="opacity:1;fill:url(#linearGradient982)" d="M 9,1.6666656 V 7 h 5.333333 C 14.333333,4.784 11.216,1.6666656 9,1.6666656 Z"/>
  </g>
  <g id="sunken-slider-bottomleft" style="opacity:0.8" transform="matrix(-0.18749997,0,0,0.18749997,11.6875,5.812502)">
-  <rect id="rect3926" style="opacity:0.001" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
+  <rect  style="opacity:0.001" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
   <path id="path3901-9-9" style="opacity:1;fill:url(#linearGradient970)" d="M 9,22.333334 V 17 h 5.333333 c 0,2.216 -3.117333,5.333334 -5.333333,5.333334 z"/>
  </g>
  <g id="sunken-slider-top" style="opacity:0.8" transform="matrix(0,-0.18749993,-0.1,0,11.7,9.6875)">
-  <rect id="rect3918" style="opacity:0.001" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
+  <rect  style="opacity:0.001" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
   <path id="path3909-6-1" style="opacity:1;fill:url(#linearGradient980)" d="m 9,7 v 10 h 5.333335 V 7 Z"/>
  </g>
  <g id="sunken-slider-bottom" style="opacity:0.8" transform="matrix(0,0.18749989,-0.1,0,11.7,7.312502)">
-  <rect id="rect3928" style="opacity:0.001" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
+  <rect  style="opacity:0.001" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
   <path id="path3915-6-3" style="opacity:1;fill:url(#linearGradient968)" d="m 9,7 v 10 h 5.333334 V 7 Z"/>
  </g>
  <path id="background-vertical-center" style="opacity:0.2;fill:#ffffff" d="M 3.5,1 3,20.999997 3.5,41 4,20.999997 Z"/>
