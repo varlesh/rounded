@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3" height="30" version="1.1">
+ <g transform="matrix(-1,0,0,1,3,0)">
+  <rect style="fill:#31363b" width="3" height="30" x="0" y="0"/>
+  <path style="fill:#616468" d="M 3,30 V 0 H 0 v 28 c 0,1.090703 0.9092972,2 2,2 z"/>
+  <path style="fill:#31363b" d="M 3,29 V 0 H 1 v 28 c 0,0.554 0.446,1 1,1 z"/>
+ </g>
+</svg>

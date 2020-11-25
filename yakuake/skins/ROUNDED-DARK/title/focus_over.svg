@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" width="22" height="22" version="1.1">
+ <g id="hover-center">
+  <rect style="opacity:0.00100002" width="22" height="22" x="0" y="0"/>
+  <rect style="opacity:0.1;fill:#ffffff" width="22" height="22" x="0" y="0" rx="6" ry="6"/>
+  <path style="opacity:1;fill:#eff0f1" transform="translate(-22)" d="m 33,3 c -4.418278,2e-7 -8,3.5817221 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.4182779 -3.581722,-7.9999998 -8,-8 z m 0,1 c 3.865993,-10e-8 7,3.1340067 7,7 0,3.865993 -3.134007,7 -7,7 -3.865993,0 -7,-3.134007 -7,-7 0,-3.8659933 3.134007,-7.0000001 7,-7 z m 0,3 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"/>
+ </g>
+</svg>
