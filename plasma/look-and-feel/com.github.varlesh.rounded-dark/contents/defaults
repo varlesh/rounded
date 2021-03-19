@@ -2,17 +2,17 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=ROUNDED
+ColorScheme=ROUNDEDDARK
 
 [kdeglobals][Icons]
-Theme=breeze
+Theme=breeze-dark
 
 [plasmarc][Theme]
-name=ROUNDED-COLOR
+name=ROUNDED-DARK
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__ROUNDED
+theme=__aurorae__svg__ROUNDED-DARK
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

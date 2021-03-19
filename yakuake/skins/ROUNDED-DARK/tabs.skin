@@ -6,7 +6,7 @@ Web=https://github.com/varlesh/rounded
 Icon=/logo.svg
 
 [Tabs]
-x=30
+x=41
 y=0
 red=239
 green=240
@@ -26,14 +26,14 @@ left_corner=/tabs/background_left.svg
 right_corner=/tabs/background_right.svg
 
 [PlusButton]
-x=1
+x=2
 y=9
-up_image=/tabs/plus_up.svg
-over_image=/tabs/plus_over.svg
-down_image=/tabs/plus_down.svg
+up_image=/tabs/plus_up.png
+over_image=/tabs/plus_over.png
+down_image=/tabs/plus_down.png
 
 [MinusButton]
-x=27
+x=26
 y=7
 up_image=/tabs/minus_up.svg
 over_image=/tabs/minus_over.svg

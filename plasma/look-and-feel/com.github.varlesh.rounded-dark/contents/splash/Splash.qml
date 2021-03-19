@@ -22,7 +22,7 @@ import QtQuick.Window 2.2
 
 Rectangle {
     id: root
-    color: "#eff0f1"
+    color: "#31363b"
 
     property int stage
 
