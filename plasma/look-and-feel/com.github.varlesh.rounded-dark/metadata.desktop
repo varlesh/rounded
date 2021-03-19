@@ -18,4 +18,4 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/varlesh/rounded
 X-KDE-fallbackPackage=org.kde.breezedark.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/0000000,kns://plasma-themes.knsrc/api.kde-look.org/0000000,kns://aurorae.knsrc/api.kde-look.org/0000000
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1493711,kns://plasma-themes.knsrc/api.kde-look.org/1493719,kns://aurorae.knsrc/api.kde-look.org/1493716,kns://xcursor.knsrc/api.kde-look.org/1356095,kns://wallpaper.knsrc/api.kde-look.org/1243989
