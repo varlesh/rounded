@@ -1,2 +1,2 @@
 # rounded
-plasma theme
+plasma theme suite
