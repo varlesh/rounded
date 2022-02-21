@@ -25,6 +25,8 @@ Rectangle {
     color: "#eff0f1"
 
     property int stage
+    
+    property real size: units.gridUnit * 40
 
     onStageChanged: {
         if (stage == 2) {
@@ -49,7 +51,6 @@ Rectangle {
             anchors.centerIn: parent
             source: "images/logo.svg"
             sourceSize.width: size
-            sourceSize.height: size
         }
         Row {
             spacing: units.smallSpacing*2
