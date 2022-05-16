@@ -42,21 +42,21 @@
  <rect id="mask-right" style="opacity:1" width="40" height="12" x="88.5" y="-64" transform="rotate(90)"/>
  <path id="shadow-topleft" style="fill:url(#radialGradient987)" d="m 128,71.000001 v 15.5 h 3.5 c 0,-6.648 5.352,-12 12,-12 v -3.5 z"/>
  <g id="shadow-top" transform="matrix(0.49999999,0,0,0.49999999,51.499999,62.000001)">
-  <path style="opacity:0.00100002" d="m 184,18 h 80 v 31 h -80 z"/>
+  <path style="opacity:0.001" d="m 184,18 h 80 v 31 h -80 z"/>
   <path style="fill:url(#linearGradient995)" d="m 184,17.999998 v 6.999998 h 80 v -6.999998 z"/>
  </g>
  <path id="shadow-topright" style="fill:url(#radialGradient1001)" d="m 183.5,71.000001 v 3.5 c 6.648,0 12,5.352 12,12 h 3.5 v -15.5 z"/>
  <g id="shadow-right" transform="matrix(0.49999999,0,0,0.49999999,51.499999,62.000001)">
-  <path style="opacity:0.00100002" transform="rotate(90)" d="m 49,-295 h 80 v 31 H 49 Z"/>
+  <path style="opacity:0.001" transform="rotate(90)" d="m 49,-295 h 80 v 31 H 49 Z"/>
   <path style="fill:url(#linearGradient1003)" d="M 288,48.999996 V 129 h 7 V 48.999996 Z"/>
  </g>
  <g id="shadow-left" transform="matrix(0.49999999,0,0,0.49999999,51.499999,62.000001)">
-  <path style="opacity:0.00100002" transform="rotate(90)" d="m 49,-184 h 80 v 31 H 49 Z"/>
+  <path style="opacity:0.001" transform="rotate(90)" d="m 49,-184 h 80 v 31 H 49 Z"/>
   <path style="fill:url(#linearGradient1007)" d="M 153,48.999996 V 129 h 7 V 48.999996 Z"/>
  </g>
  <path id="shadow-bottomleft" style="fill:url(#radialGradient1020)" d="M 128,126.5 V 142 h 15.5 v -3.5 c -6.648,0 -12,-5.352 -12,-12 z"/>
  <g id="shadow-bottom" transform="matrix(0.49999999,0,0,0.49999999,51.499999,62.000001)">
-  <path style="opacity:0.00100002" d="m 184,129 h 80 v 31 h -80 z"/>
+  <path style="opacity:0.001" d="m 184,129 h 80 v 31 h -80 z"/>
   <path style="fill:url(#linearGradient1022)" d="m 184,153 v 7 h 80 v -7 z"/>
  </g>
  <path id="shadow-bottomright" style="fill:url(#radialGradient1024)" d="m 195.5,126.5 c 0,6.648 -5.352,12 -12,12 V 142 H 199 v -15.5 z"/>
@@ -64,7 +64,7 @@
  <rect id="shadow-hint-bottom-margin" style="fill:#ff0000" width="4" height="3.5" x="161.5" y="138.5"/>
  <rect id="shadow-hint-left-margin" style="fill:#ff0000" width="3.5" height="4" x="128" y="101.5"/>
  <rect id="shadow-hint-top-margin" style="fill:#ff0000" width="4" height="3.5" x="161.5" y="71"/>
- <rect id="shadow-center" style="opacity:0.00100002" width="40" height="40" x="143.5" y="86.5"/>
+ <rect id="shadow-center" style="opacity:0.001" width="40" height="40" x="143.5" y="86.5"/>
  <rect id="hint-stretch-borders" style="fill:#ff0000" width="10" height="10" x="10" y="-10"/>
  <rect id="shadow-hint-top-inset" style="fill:#00ff00" width="4" height="3.5" x="165.5" y="138.5"/>
  <rect id="shadow-hint-bottom-inset" style="fill:#00ff00" width="4" height="3.5" x="165.5" y="71"/>
