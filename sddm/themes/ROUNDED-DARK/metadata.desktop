@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=ROUNDED DARK
+Description=rounded style
+Author=Alexey Varfolomeev
+Copyright=(c) 2022, Alexey Varfolomeev
+License=ISC
+Type=sddm-theme
+Version=20220526
+Website=https://github.com/varlesh/rounded
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=ROUNDED-DARK
+Theme-API=2.0

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="144" height="144" version="1.1">
+ <defs id="defs22">
+  <linearGradient id="linearGradient953">
+   <stop style="stop-color:#a22f66;stop-opacity:1" id="stop949" offset="0"/>
+   <stop style="stop-color:#1b77a0;stop-opacity:1" id="stop951" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient955" x1="0" x2="144" y1="72" y2="72" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient953"/>
+ </defs>
+ <rect style="fill:url(#linearGradient955);fill-opacity:1" id="rect957" width="144" height="144" x="0" y="0"/>
+ <rect style="fill:#3f3f3f" id="rect2433" width="72" height="21.6" x="36" y="97.2" rx="14.4"/>
+ <path style="fill:#dbad89" id="path4" d="m 61.2,82.48842 h 21.6 v 19.25263 L 74.6532,106.23851 72,110.79553 69.34692,106.23851 61.2,103.81957 Z"/>
+ <path style="fill:#fbd9bd" id="path6" d="M 97.2,68.4 C 97.2,82.317576 85.917576,93.6 72,93.6 58.082424,93.6 46.8,82.317576 46.8,68.4 46.8,54.482424 58.082424,26.032439 72,26.032439 c 13.917576,0 25.2,28.449985 25.2,42.367561 z"/>
+ <path style="fill:#b37e46" id="path8" d="M 68.4,25.2 C 54.4392,25.2 43.2,36.4392 43.2,50.4 V 54 c 0,4.427493 2.696598,16.027935 4.2012,12.192189 L 55.167189,43.642968 C 59.478366,46.391547 65.244423,47.376633 72,47.172657 c 6.755577,0.20397 12.521634,-0.78111 16.832811,-3.529689 L 96.5988,66.192189 C 98.103402,70.027935 100.8,58.427493 100.8,54 V 50.4 C 100.8,36.4392 89.5608,25.2 75.6,25.2 H 72 Z"/>
+ <path style="fill:#4c4c4c" id="path10" d="m 57.096,96.38418 3.615477,-4.73682 8.635443,14.59115 -7.617888,8.56044 z"/>
+ <ellipse style="fill:#fbd9bd" id="ellipse12" cx="27.288" cy="72.896" rx="4.21" ry="5.511" transform="matrix(0.98758997,-0.1570543,0.23323811,0.97241965,0,0)"/>
+ <path style="fill:#4c4c4c" id="path14" d="m 86.90412,96.38418 -3.615477,-4.73682 -8.635443,14.59115 7.617888,8.56044 z"/>
+ <ellipse style="fill:#fbd9bd" id="ellipse2922" cx="-113.164" cy="50.212" rx="4.21" ry="5.511" transform="matrix(-0.98758997,-0.1570543,-0.23323811,0.97241965,0,0)"/>
+ <circle style="opacity:0.3" id="path5034" cx="59.4" cy="66.6" r="5.4"/>
+ <circle style="opacity:0.3" id="circle5218" cx="-84.6" cy="66.6" r="5.4" transform="scale(-1,1)"/>
+</svg>
