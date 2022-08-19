@@ -14,15 +14,15 @@
   <radialGradient id="radialGradient884" cx="129.71" cy="144.271" r="11" fx="129.71" fy="144.271" gradientTransform="matrix(-1.8641918,1.8641918,-2.1818194,-2.1818194,820.5768,201.96938)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient985"/>
  </defs>
  <rect id="hint-tile-center" style="opacity:1;fill:#ff0000" width="5" height="5" x="0" y="0"/>
- <path id="topright" style="opacity:0.8;fill:#31363b" d="m 104,5.000917 v 23.999998 h 24 C 128,9 124,5.000917 104,5.000917 Z"/>
- <rect id="top" style="opacity:0.8;fill:#31363b" width="80" height="24" x="24" y="5"/>
- <rect id="center" style="opacity:0.8;fill:#31363b" width="80" height="80" x="24" y="29"/>
- <path id="topleft" style="opacity:0.8;fill:#31363b" d="M 24,5.000002 V 29 H 0 C 0,9 4,5.000002 24,5.000002 Z"/>
- <path id="bottomright" style="opacity:0.8;fill:#31363b" d="m 104,132.99908 v -24 h 24 c 0,20.00092 -4,24 -24,24 z"/>
- <rect id="bottom" style="opacity:0.8;fill:#31363b" width="80" height="24" x="24" y="-133" transform="scale(1,-1)"/>
- <path id="bottomleft" style="opacity:0.8;fill:#31363b" d="M 24.000017,133 V 109 H 1.7081479e-5 C 1.7081479e-5,129 4,133 24.000017,133 Z"/>
- <rect id="left" style="opacity:0.8;fill:#31363b" width="80" height="24" x="29" y="-24" transform="rotate(90)"/>
- <rect id="right" style="opacity:0.8;fill:#31363b" width="80" height="24" x="29" y="-128" transform="rotate(90)"/>
+ <path id="topright" style="fill:#31363b" d="m 104,5.000917 v 23.999998 h 24 C 128,9 124,5.000917 104,5.000917 Z"/>
+ <rect id="top" style="fill:#31363b" width="80" height="24" x="24" y="5"/>
+ <rect id="center" style="fill:#31363b" width="80" height="80" x="24" y="29"/>
+ <path id="topleft" style="fill:#31363b" d="M 24,5.000002 V 29 H 0 C 0,9 4,5.000002 24,5.000002 Z"/>
+ <path id="bottomright" style="fill:#31363b" d="m 104,132.99908 v -24 h 24 c 0,20.00092 -4,24 -24,24 z"/>
+ <rect id="bottom" style="fill:#31363b" width="80" height="24" x="24" y="-133" transform="scale(1,-1)"/>
+ <path id="bottomleft" style="fill:#31363b" d="M 24.000017,133 V 109 H 1.7081479e-5 C 1.7081479e-5,129 4,133 24.000017,133 Z"/>
+ <rect id="left" style="fill:#31363b" width="80" height="24" x="29" y="-24" transform="rotate(90)"/>
+ <rect id="right" style="fill:#31363b" width="80" height="24" x="29" y="-128" transform="rotate(90)"/>
  <rect id="hint-top-margin" style="opacity:1;fill:#ff0000" width="8" height="14" x="60" y="29"/>
  <rect id="hint-left-margin" style="opacity:1;fill:#ff0000" width="14" height="8" x="24" y="63"/>
  <rect id="hint-right-margin" style="opacity:1;fill:#ff0000" width="14" height="8" x="90" y="63"/>

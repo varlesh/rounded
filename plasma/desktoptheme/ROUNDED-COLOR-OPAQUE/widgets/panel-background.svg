@@ -1,5 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="398" height="142" version="1">
- <defs id="defs15">
+ <defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
   <linearGradient id="linearGradient985">
    <stop style="stop-color:#000000;stop-opacity:1" offset="0"/>
    <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
@@ -14,15 +31,15 @@
   <radialGradient id="radialGradient1024" cx="129.71" cy="143.29" r="11" fx="129.71" fy="143.29" gradientTransform="matrix(-5.0822999e-8,1.3181814,-1.318181,-5.0822984e-8,373.38258,-43.480897)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient985"/>
  </defs>
  <rect id="hint-tile-center" style="fill:#ff0000" width="10" height="10" x="0" y="-10"/>
- <path id="topright" style="opacity:0.8;fill:#31363b" d="m 116,76.500461 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"/>
- <rect id="top" style="opacity:0.8;fill:#31363b" width="40" height="12" x="76" y="76.5"/>
- <rect id="center" style="opacity:0.8;fill:#31363b" width="40" height="40" x="76" y="88.5"/>
- <path id="topleft" style="opacity:0.8;fill:#31363b" d="m 76.000009,76.500001 v 12 h -12 c 0,-6.648 5.352,-12 12,-12 z"/>
- <path id="bottomright" style="opacity:0.8;fill:#31363b" d="m 116,140.49954 v -12 h 12 c 0,6.64801 -5.352,12 -12,12 z"/>
- <rect id="bottom" style="opacity:0.8;fill:#31363b" width="40" height="12" x="76" y="-140.5" transform="scale(1,-1)"/>
- <path id="bottomleft" style="opacity:0.8;fill:#31363b" d="m 76.000009,140.5 v -12 h -12 c 0,6.64801 5.352,12 12,12 z"/>
- <rect id="left" style="opacity:0.8;fill:#31363b" width="40" height="12" x="88.5" y="-76" transform="rotate(90)"/>
- <rect id="right" style="opacity:0.8;fill:#31363b" width="40" height="12" x="88.5" y="-128" transform="rotate(90)"/>
+ <path id="topright" style="fill:currentColor" class="ColorScheme-Background" d="m 116,76.500461 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"/>
+ <rect id="top" style="fill:currentColor" class="ColorScheme-Background" width="40" height="12" x="76" y="76.5"/>
+ <rect id="center" style="fill:currentColor" class="ColorScheme-Background" width="40" height="40" x="76" y="88.5"/>
+ <path id="topleft" style="fill:currentColor" class="ColorScheme-Background" d="m 76.000009,76.500001 v 12 h -12 c 0,-6.648 5.352,-12 12,-12 z"/>
+ <path id="bottomright" style="fill:currentColor" class="ColorScheme-Background" d="m 116,140.49954 v -12 h 12 c 0,6.64801 -5.352,12 -12,12 z"/>
+ <rect id="bottom" style="fill:currentColor" class="ColorScheme-Background" width="40" height="12" x="76" y="-140.5" transform="scale(1,-1)"/>
+ <path id="bottomleft" style="fill:currentColor" class="ColorScheme-Background" d="m 76.000009,140.5 v -12 h -12 c 0,6.64801 5.352,12 12,12 z"/>
+ <rect id="left" style="fill:currentColor" class="ColorScheme-Background" width="40" height="12" x="88.5" y="-76" transform="rotate(90)"/>
+ <rect id="right" style="fill:currentColor" class="ColorScheme-Background" width="40" height="12" x="88.5" y="-128" transform="rotate(90)"/>
  <rect id="thick-hint-top-margin" style="fill:#ff00ff" width="4" height="8" x="93" y="76.5"/>
  <rect id="hint-top-margin" style="fill:#ff0000" width="4" height="2" x="93" y="76.5"/>
  <rect id="thick-hint-left-margin" style="fill:#ff00ff" width="4" height="8" x="105.5" y="-72" transform="rotate(90)"/>
