@@ -4,7 +4,7 @@ Name=ROUNDED COLOR
 X-KDE-PluginInfo-Author=Alexey Varfolomeev
 X-KDE-PluginInfo-Email=varlesh@gmail.com
 X-KDE-PluginInfo-Name=ROUNDED-COLOR
-X-KDE-PluginInfo-Version=20220725
+X-KDE-PluginInfo-Version=20220819
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
@@ -16,3 +16,6 @@ enabled=false
 contrast=0.2
 intensity=0.4
 saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true
